@@ -34,7 +34,7 @@ const Navbar = () => {
       }`}
     >
       <div className="container">
-        <div className="flex items-center justify-between h-20">
+        <div className="flex items-center justify-between md:justify-between justify-center h-20 relative">
           {/* Logo */}
           <Link to="/" className="text-2xl font-bold text-primary hover:text-accent transition-colors">
             Property Now
@@ -63,7 +63,7 @@ const Navbar = () => {
           {/* Mobile Menu Button */}
           <button
             onClick={() => setIsOpen(!isOpen)}
-            className="md:hidden p-2 text-primary hover:text-accent transition-colors"
+            className="md:hidden p-2 text-primary hover:text-accent transition-colors absolute right-4"
             aria-label="Toggle menu"
           >
             {isOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}
