@@ -68,7 +68,7 @@ const Hero = () => {
                 </div>
 
                 {/* Type Select */}
-                <div className="md:col-span-3">
+                <div className="hidden md:block md:col-span-3">
                   <select
                     value={selectedType}
                     onChange={(e) => setSelectedType(e.target.value)}
