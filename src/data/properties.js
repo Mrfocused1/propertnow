@@ -187,11 +187,11 @@ export const properties = [
     location: "Battersea, South London",
     area: "South London",
     propertyType: "Apartment",
-    image: "https://images.unsplash.com/photo-1600607687644-c7171b42498b?w=800&h=600&fit=crop",
+    image: "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&h=600&fit=crop&q=80",
     images: [
-      "https://images.unsplash.com/photo-1600607687644-c7171b42498b?w=1200&h=800&fit=crop",
-      "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=1200&h=800&fit=crop",
-      "https://images.unsplash.com/photo-1600573472550-8090b5e0745e?w=1200&h=800&fit=crop"
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=1200&h=800&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?w=1200&h=800&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8?w=1200&h=800&fit=crop&q=80"
     ],
     description: "Modern riverside apartment with Thames views. Building amenities include gym, pool, and 24-hour concierge. Minutes from Battersea Park.",
     features: ["River Views", "Pool", "Gym", "Concierge", "Balcony"],
@@ -275,11 +275,11 @@ export const properties = [
     location: "Greenwich, South East London",
     area: "South London",
     propertyType: "Duplex",
-    image: "https://images.unsplash.com/photo-1600585152220-a3a1c6f8763d?w=800&h=600&fit=crop",
+    image: "https://images.unsplash.com/photo-1567767292278-a4f21aa2d36e?w=800&h=600&fit=crop&q=80",
     images: [
-      "https://images.unsplash.com/photo-1600585152220-a3a1c6f8763d?w=1200&h=800&fit=crop",
-      "https://images.unsplash.com/photo-1600573472592-401b489a3cdc?w=1200&h=800&fit=crop",
-      "https://images.unsplash.com/photo-1600047509093-7b0dc4a4e93c?w=1200&h=800&fit=crop"
+      "https://images.unsplash.com/photo-1567767292278-a4f21aa2d36e?w=1200&h=800&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=1200&h=800&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1560185007-cde436f6a4d0?w=1200&h=800&fit=crop&q=80"
     ],
     description: "Spacious duplex with river views in historic Greenwich. Two floors of contemporary living with private terrace. Close to Greenwich Park and DLR.",
     features: ["Duplex", "Terrace", "River Views", "Modern", "Transport"],
